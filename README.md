@@ -1,7 +1,5 @@
 # Bulk-JPG-to-PDF--converter
-This is a simple program to convert your .jpg extensions file in a folder to .pdf file. 
-
-It is a python program.
+This is a simple python program to convert your .jpg extensions file in a folder to .pdf file. 
 
 > Inorder to run this follow these steps
 1. Download img2pdf module in python.  
