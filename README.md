@@ -5,6 +5,6 @@ It is a python program.
 
 > Inorder to run this follow these steps
 1. Download img2pdf module in python.
-   'pip install img2pdf'
+      `pip install img2pdf`
 2. Paste our program in the folder/directory where the files are present.
 3. Execute our program in the directory.
